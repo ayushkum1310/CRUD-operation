@@ -35,4 +35,5 @@ Enhance the application's design and user interface for a more polished and prof
 Integrate additional features such as data visualization and reporting to provide insights into the database content.
 Project Contributors:
 
+Regards 
 Ayush Kumar
